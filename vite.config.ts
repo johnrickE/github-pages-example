@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/github-pages-example/'
 })
